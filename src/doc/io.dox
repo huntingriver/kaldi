@@ -479,7 +479,7 @@ namespace kaldi {
 
    Typical examples of rspecifiers using a lot of options are:
    \verbatim
-     "ark:o,s,cs:-"
+     "ark,o,s,cs:-"
      "scp,p:data/my.scp"
    \endverbatim
 
